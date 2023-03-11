@@ -9,3 +9,5 @@ Different to other tutorials, this repository firstly shows how to use self-defi
 This repository also shows how to map English province names into original Chinese ones to facilitate publishing on academic journals in English.
 
 This code is written in OOP style to easy parameter passing across methods inside the Class. You could try to isolate each function as well by passing the same arguments repetitively into each function.
+
+Results are in `Res/` folder as png files.
